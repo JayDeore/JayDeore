@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JayDeore
+- 👋 Hi, I’m @Jayesh Deore
 - 👀 I’m interested in Competitive Coding and Development 
 - 🌱 I’m currently learning Computer Engineering 
 
