@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jayesh Deore
-- 👀 I’m interested in Competitive Coding and Development 
+- 👀 I’m interested in Coding and Web Development 
 - 🌱 I’m currently learning Computer Engineering 
 
 
