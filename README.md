@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/jaydeore25" target="blank"><img src="https://img.shields.io/twitter/follow/jaydeore25?logo=twitter&style=for-the-badge" alt="jaydeore25" /></a> </p>
 
 - 🌱 I’m currently learning **Computer Engineering** at **D.Y. Patil College of Engineering, Akurdi, PUNE**
-- 🧑‍🎓 I’m intrested in **Competitive Programming** and **BlockChain Development** 
+- 🧑‍🎓 I’m intrested in **Web Development** 
 - 📫 How to reach me **jayeshvdeore25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
